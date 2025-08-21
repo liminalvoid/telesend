@@ -59,7 +59,7 @@ func main() {
 
 		return
 	} else if err != nil {
-		panic(fmt.Errorf("Unexpected error: %w", err))
+		panic(fmt.Errorf("unexpected error: %w", err))
 	}
 
 	// Create session storage file

@@ -1,0 +1,25 @@
+# Test media files
+*.png
+*.jpg
+*.mp3
+
+# Misc
+.env
+TODO.md
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+telesend
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Go workspace file
+go.work
